@@ -1,5 +1,5 @@
-# MPASS
-MPASS Code Challenge
+# Vue
+Vue Code Challenge
 
 1. Στον φάκελο json-server υπάρχουν όλα τα απαραίτητα αρχεία για την εγκατάσταση και εκκίνηση του json-server. Θα πρέπει να εκτελεστεί η εντολή npm i ή npm install για την εγκατάσταση των depedencies.Στην συνέχεια μέσω cmd μεταβαίνετε στον φάκελο όπου υπάρχει ο json-server και εκτελείτε την εντολή npm run json:server. 
 
